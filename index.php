@@ -5,6 +5,7 @@
     $tekst = new tekst();
 
     echo $tekst->tekst;
+    echo $tekst->tekst2;
 
 ?>
 
