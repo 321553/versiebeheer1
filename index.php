@@ -7,7 +7,7 @@
     echo $tekst->tekst;
     echo $tekst->tekst1;
     echo $tekst->tekst2;
-
+    echo $tekst->tekst5;
     echo $tekst->tekst4;
 
 
