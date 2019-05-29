@@ -10,6 +10,6 @@
     echo $tekst->tekst5;
     echo $tekst->tekst4;
     echo "hoi";
-
+    echo "ik ben er ook nog ";
 ?>
 
