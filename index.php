@@ -9,7 +9,7 @@
     echo $tekst->tekst2;
     echo $tekst->tekst5;
     echo $tekst->tekst4;
-
+    echo "hoi";
 
 ?>
 
